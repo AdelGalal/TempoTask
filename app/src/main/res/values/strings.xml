@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempoTask</string>
+    <string name="connection_error">Connection error, Please try again later</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="filter_msg">The minimum length of characters should be 3 characters</string>
+    <string name="content">The content : </string>
+</resources>
